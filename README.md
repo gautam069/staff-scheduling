@@ -50,11 +50,6 @@ pip install pyomo
 - [Getting Started with Pyomo](http://www.pyomo.org/)
 - [Optimization Techniques in Operations Research](https://www.informs.org/Explore/Operations-Research-Analytics)
 
-## Authors
-- [Grace Trane](https://github.com/gtrane)
-- [Arun Ganapathy](https://github.com/@arun98aol)
-- Michael Neuhaus 
-- Carrie Cox 
 
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
